@@ -1,6 +1,6 @@
 # example_book
 
-This is an example to figure out how to publish Juyptherbook online.
+This is an example to figure out how to publish a Jupyterbook online.
 
 ## Usage
 
